@@ -1,3 +1,3 @@
 # ingatin
 
-aplikasi todolist sederhana
+aplikasi todolist sederhana , masih dalam tahap awal nexttime penambahan pengingat kegiatan
